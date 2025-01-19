@@ -1,0 +1,56 @@
+2025-01-18 05:07:45,297 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-18 05:07:45,297 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-18 05:07:45,470 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-18 05:07:48,774 - WARNING -  * Debugger is active!
+2025-01-18 05:07:48,782 - INFO -  * Debugger PIN: 143-653-087
+2025-01-18 05:07:48,861 - INFO - 127.0.0.1 - - [18/Jan/2025 05:07:48] "GET / HTTP/1.1" 200 -
+2025-01-18 05:07:49,089 - INFO - 127.0.0.1 - - [18/Jan/2025 05:07:49] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+2025-01-18 05:07:49,096 - INFO - 127.0.0.1 - - [18/Jan/2025 05:07:49] "[36mGET /static/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-18 05:07:49,242 - INFO - 127.0.0.1 - - [18/Jan/2025 05:07:49] "[36mGET /static/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-18 05:08:02,398 - INFO - 127.0.0.1 - - [18/Jan/2025 05:08:02] "GET /batch HTTP/1.1" 200 -
+2025-01-18 05:08:02,534 - INFO - 127.0.0.1 - - [18/Jan/2025 05:08:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-01-18 05:08:09,555 - INFO - 127.0.0.1 - - [18/Jan/2025 05:08:09] "[32mPOST /batch HTTP/1.1[0m" 302 -
+2025-01-18 05:08:09,676 - INFO - 127.0.0.1 - - [18/Jan/2025 05:08:09] "GET / HTTP/1.1" 200 -
+2025-01-18 05:08:10,054 - INFO - 127.0.0.1 - - [18/Jan/2025 05:08:10] "[36mGET /static/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-18 05:08:10,055 - INFO - 127.0.0.1 - - [18/Jan/2025 05:08:10] "[36mGET /static/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-18 05:08:10,059 - INFO - 127.0.0.1 - - [18/Jan/2025 05:08:10] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+2025-01-18 13:11:20,644 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-18 13:11:20,644 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-18 13:11:20,696 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-18 13:11:24,229 - WARNING -  * Debugger is active!
+2025-01-18 13:11:24,250 - INFO -  * Debugger PIN: 143-653-087
+2025-01-18 13:16:14,703 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-18 13:16:14,703 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-18 13:16:14,736 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-18 13:16:25,897 - WARNING -  * Debugger is active!
+2025-01-18 13:16:25,906 - INFO -  * Debugger PIN: 143-653-087
+2025-01-18 13:16:39,820 - INFO - 127.0.0.1 - - [18/Jan/2025 13:16:39] "GET / HTTP/1.1" 200 -
+2025-01-18 13:16:40,812 - INFO - 127.0.0.1 - - [18/Jan/2025 13:16:40] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-01-18 13:16:40,882 - INFO - 127.0.0.1 - - [18/Jan/2025 13:16:40] "GET /static/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2025-01-18 13:16:40,912 - INFO - 127.0.0.1 - - [18/Jan/2025 13:16:40] "GET /static/logo.png HTTP/1.1" 200 -
+2025-01-18 13:16:42,314 - INFO - 127.0.0.1 - - [18/Jan/2025 13:16:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-18 13:17:13,048 - INFO - 127.0.0.1 - - [18/Jan/2025 13:17:13] "POST /submit HTTP/1.1" 200 -
+2025-01-18 13:17:45,961 - INFO - 127.0.0.1 - - [18/Jan/2025 13:17:45] "[32mPOST /batch HTTP/1.1[0m" 302 -
+2025-01-18 13:17:45,976 - INFO - 127.0.0.1 - - [18/Jan/2025 13:17:45] "GET / HTTP/1.1" 200 -
+2025-01-18 13:17:46,076 - INFO - 127.0.0.1 - - [18/Jan/2025 13:17:46] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+2025-01-18 13:17:46,078 - INFO - 127.0.0.1 - - [18/Jan/2025 13:17:46] "[36mGET /static/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-18 13:17:46,080 - INFO - 127.0.0.1 - - [18/Jan/2025 13:17:46] "[36mGET /static/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-18 13:19:04,102 - INFO - 127.0.0.1 - - [18/Jan/2025 13:19:04] "GET /batch HTTP/1.1" 200 -
+2025-01-18 13:19:04,291 - INFO - 127.0.0.1 - - [18/Jan/2025 13:19:04] "GET /static/style.css HTTP/1.1" 200 -
+2025-01-18 13:19:14,379 - INFO - 127.0.0.1 - - [18/Jan/2025 13:19:14] "GET /batch HTTP/1.1" 200 -
+2025-01-18 13:19:14,501 - INFO - 127.0.0.1 - - [18/Jan/2025 13:19:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-01-18 13:19:19,725 - INFO - 127.0.0.1 - - [18/Jan/2025 13:19:19] "GET /history HTTP/1.1" 200 -
+2025-01-18 13:19:40,901 - INFO - 127.0.0.1 - - [18/Jan/2025 13:19:40] "GET /history HTTP/1.1" 200 -
+2025-01-18 13:19:43,526 - INFO - 127.0.0.1 - - [18/Jan/2025 13:19:43] "GET / HTTP/1.1" 200 -
+2025-01-18 13:19:43,624 - INFO - 127.0.0.1 - - [18/Jan/2025 13:19:43] "[36mGET /static/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-18 13:19:43,665 - INFO - 127.0.0.1 - - [18/Jan/2025 13:19:43] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+2025-01-18 13:19:43,741 - INFO - 127.0.0.1 - - [18/Jan/2025 13:19:43] "[36mGET /static/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2025-01-18 13:19:50,016 - INFO - 127.0.0.1 - - [18/Jan/2025 13:19:50] "POST /submit HTTP/1.1" 200 -
+2025-01-18 13:19:54,074 - INFO - 127.0.0.1 - - [18/Jan/2025 13:19:54] "GET /history HTTP/1.1" 200 -
+2025-01-18 13:20:05,717 - INFO - 127.0.0.1 - - [18/Jan/2025 13:20:05] "GET / HTTP/1.1" 200 -
+2025-01-18 13:20:05,853 - INFO - 127.0.0.1 - - [18/Jan/2025 13:20:05] "[36mGET /static/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-01-18 13:20:05,908 - INFO - 127.0.0.1 - - [18/Jan/2025 13:20:05] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+2025-01-18 13:20:05,984 - INFO - 127.0.0.1 - - [18/Jan/2025 13:20:05] "[36mGET /static/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
