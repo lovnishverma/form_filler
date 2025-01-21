@@ -143,13 +143,14 @@ def batch_form():
 @app.route("/history")
 def history():
     try:
-        # Fetch all applicants from the database
-        applicants = Applicant.query.all()
+        # Fetch all applicants from the database, ordered by ID in descending order
+        applicants = Applicant.query.order_by(Applicant.id.desc()).all()
         return render_template("history.html", applicants=applicants)
     except Exception as e:
         logging.error(f"Error fetching history: {e}")
         flash("An error occurred while fetching the history.")
         return redirect(url_for("index"))
+
 
 
 if __name__ == "__main__":
