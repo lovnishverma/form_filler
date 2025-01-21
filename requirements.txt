@@ -1,1 +1,5 @@
-pip install flask python-docx flask-sqlalchemy pandas
+flask
+datetime
+python-docx
+flask-sqlalchemy
+pandas
